@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arthur Saprunov</h1>
-<h3 align="center">I'm currently a student at Hogeschool West-Vlaanderen, (@howest). I like to program and solve problems with code!</h3>
+<h3 align="center">I like to program and solve problems with code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skydragonsz&label=Profile%20views&color=0e75b6&style=flat" alt="skydragonsz" /> </p>
 
